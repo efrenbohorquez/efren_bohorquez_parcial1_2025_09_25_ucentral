@@ -1,0 +1,14 @@
+# Ignorar archivos sensibles y temporales
+.env
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Ignorar archivos de datos locales
+*.zip
+datos/
+temp/
